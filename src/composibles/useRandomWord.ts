@@ -7,7 +7,6 @@ export const useRandomWord = () => {
         try {
             const name = await getRandomName();
             word.value = name.toLowerCase();
-            console.log(word);
         } catch (e) {
             console.error(e);
             word.value = '';
