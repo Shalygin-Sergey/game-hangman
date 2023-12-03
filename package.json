@@ -1,5 +1,6 @@
 {
   "name": "vueproject",
+  "homepage": "https://github.com/Shalygin-Sergey/game-hangman/",
   "version": "0.0.0",
   "private": true,
   "scripts": {
